@@ -5,7 +5,7 @@ It accomplishes so by combining data about past diagnosis and ancestry history w
 Teddy was created using a pretty complex technology stack, which is comprised of:
 - An API made with Golang to create, request, update and delete data
 - A PostgreSQL database to store the data
-- A Tensorflow model that makes prediction based on the data
+- A Keras model that makes prediction based on the data
 - And a NEXT.js frontend to diplay the data to the client
 # Is my information on Teddy safe from hackers?
 The dev team developed the application in a security-driven mindset to ensure that your information won't be realeased to the public.  
