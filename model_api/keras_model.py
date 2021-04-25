@@ -10,7 +10,7 @@ Original file is located at
 from google.colab import drive
 drive.mount('/content/drive')
 
-datadir = '/content/drive/My Drive/yum.csv'
+datadir = '/content/drive/My Drive/domodata.csv'
 
 import numpy as np
 import pandas
