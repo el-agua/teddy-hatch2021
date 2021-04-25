@@ -16,3 +16,6 @@ We have used tecniques such as:
 
 # Who made Teddy and why?
 Teddy was made by a team of high schoolers with computer science at their heart to solve a major health issue.
+
+# Demo
+Teddy can be demoed at: https://teddyapp.vercel.app/
