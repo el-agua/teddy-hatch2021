@@ -1,4 +1,3 @@
-## Teddy
 # Inspiration
 Going through thousands of user input data to label genetic cancer risk is tedious and inefficient. Because it requires both time and genetic expertise to classify genetic risk, the task itself wastes the time of genetic experts that could be spent in risk prevention research. To make matters worse, current data is not standardized and provide challenges to interpreting exactly what information patients were trying to give. Thus, to address these issues, we built a robust end-to-end interactive framework to assist genetic counselors with input sanitation and autonomous risk prediction.
 # What it does
